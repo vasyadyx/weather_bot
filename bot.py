@@ -43,3 +43,6 @@ except requests.exceptions.RequestException as e:
     print(f"An error occurred while making the request: {e}")
 except Exception as e:
     print(f"An unexpected error occurred: {e}")
+
+    some text 
+    
